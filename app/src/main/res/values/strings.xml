@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="court_counter">Court Counter!</string>
+    <string name="name_1">Chicago Bulls</string>
+    <string name="name_2">LA Lakers</string>
+    <string name="score_1">0</string>
+    <string name="three_point">+3</string>
+    <string name="two_point">+2</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="reset">reset</string>
+    <string name="score_2">5</string>
+</resources>
